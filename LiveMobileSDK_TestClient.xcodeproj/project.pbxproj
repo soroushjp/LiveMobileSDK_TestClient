@@ -18,8 +18,16 @@
 		730AD144175FE2A500E17FB5 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 730AD143175FE2A500E17FB5 /* Default-568h@2x.png */; };
 		730AD147175FE2A500E17FB5 /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 730AD145175FE2A500E17FB5 /* MainStoryboard.storyboard */; };
 		730AD14A175FE2A500E17FB5 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 730AD149175FE2A500E17FB5 /* ViewController.m */; };
-		730AD151175FE2CD00E17FB5 /* libLiveMobileSDK.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 730AD150175FE2CD00E17FB5 /* libLiveMobileSDK.a */; };
 		730AD1BA175FE42100E17FB5 /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 730AD1B9175FE42100E17FB5 /* QuartzCore.framework */; };
+		730AD1DB175FED7B00E17FB5 /* bubbleMine.png in Resources */ = {isa = PBXBuildFile; fileRef = 730AD1C7175FED7B00E17FB5 /* bubbleMine.png */; };
+		730AD1DC175FED7B00E17FB5 /* bubbleMine@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 730AD1C8175FED7B00E17FB5 /* bubbleMine@2x.png */; };
+		730AD1DD175FED7B00E17FB5 /* bubbleSomeone.png in Resources */ = {isa = PBXBuildFile; fileRef = 730AD1C9175FED7B00E17FB5 /* bubbleSomeone.png */; };
+		730AD1DE175FED7B00E17FB5 /* bubbleSomeone@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 730AD1CA175FED7B00E17FB5 /* bubbleSomeone@2x.png */; };
+		730AD1E7175FED7B00E17FB5 /* typingMine.png in Resources */ = {isa = PBXBuildFile; fileRef = 730AD1D6175FED7B00E17FB5 /* typingMine.png */; };
+		730AD1E8175FED7B00E17FB5 /* typingMine@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 730AD1D7175FED7B00E17FB5 /* typingMine@2x.png */; };
+		730AD1E9175FED7B00E17FB5 /* typingSomeone.png in Resources */ = {isa = PBXBuildFile; fileRef = 730AD1D8175FED7B00E17FB5 /* typingSomeone.png */; };
+		730AD1EA175FED7B00E17FB5 /* typingSomeone@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 730AD1D9175FED7B00E17FB5 /* typingSomeone@2x.png */; };
+		730AD1EB175FED7B00E17FB5 /* libLiveMobileSDK.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 730AD1DA175FED7B00E17FB5 /* libLiveMobileSDK.a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -39,9 +47,17 @@
 		730AD146175FE2A500E17FB5 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
 		730AD148175FE2A500E17FB5 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		730AD149175FE2A500E17FB5 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
-		730AD150175FE2CD00E17FB5 /* libLiveMobileSDK.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = libLiveMobileSDK.a; sourceTree = "<group>"; };
-		730AD152175FE2E600E17FB5 /* LiveMobileSDK.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LiveMobileSDK.h; sourceTree = "<group>"; };
 		730AD1B9175FE42100E17FB5 /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
+		730AD1C7175FED7B00E17FB5 /* bubbleMine.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bubbleMine.png; sourceTree = "<group>"; };
+		730AD1C8175FED7B00E17FB5 /* bubbleMine@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "bubbleMine@2x.png"; sourceTree = "<group>"; };
+		730AD1C9175FED7B00E17FB5 /* bubbleSomeone.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bubbleSomeone.png; sourceTree = "<group>"; };
+		730AD1CA175FED7B00E17FB5 /* bubbleSomeone@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "bubbleSomeone@2x.png"; sourceTree = "<group>"; };
+		730AD1D5175FED7B00E17FB5 /* LiveMobileSDK.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LiveMobileSDK.h; sourceTree = "<group>"; };
+		730AD1D6175FED7B00E17FB5 /* typingMine.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = typingMine.png; sourceTree = "<group>"; };
+		730AD1D7175FED7B00E17FB5 /* typingMine@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "typingMine@2x.png"; sourceTree = "<group>"; };
+		730AD1D8175FED7B00E17FB5 /* typingSomeone.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = typingSomeone.png; sourceTree = "<group>"; };
+		730AD1D9175FED7B00E17FB5 /* typingSomeone@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "typingSomeone@2x.png"; sourceTree = "<group>"; };
+		730AD1DA175FED7B00E17FB5 /* libLiveMobileSDK.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = libLiveMobileSDK.a; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,7 +69,7 @@
 				730AD12E175FE2A500E17FB5 /* UIKit.framework in Frameworks */,
 				730AD130175FE2A500E17FB5 /* Foundation.framework in Frameworks */,
 				730AD132175FE2A500E17FB5 /* CoreGraphics.framework in Frameworks */,
-				730AD151175FE2CD00E17FB5 /* libLiveMobileSDK.a in Frameworks */,
+				730AD1EB175FED7B00E17FB5 /* libLiveMobileSDK.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -63,9 +79,8 @@
 		730AD121175FE2A500E17FB5 = {
 			isa = PBXGroup;
 			children = (
+				730AD1C5175FED7B00E17FB5 /* LiveMobileSDK */,
 				730AD1B9175FE42100E17FB5 /* QuartzCore.framework */,
-				730AD150175FE2CD00E17FB5 /* libLiveMobileSDK.a */,
-				730AD152175FE2E600E17FB5 /* LiveMobileSDK.h */,
 				730AD133175FE2A500E17FB5 /* LiveMobileSDK_TestClient */,
 				730AD12C175FE2A500E17FB5 /* Frameworks */,
 				730AD12B175FE2A500E17FB5 /* Products */,
@@ -115,6 +130,32 @@
 				730AD143175FE2A500E17FB5 /* Default-568h@2x.png */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		730AD1C5175FED7B00E17FB5 /* LiveMobileSDK */ = {
+			isa = PBXGroup;
+			children = (
+				730AD1C6175FED7B00E17FB5 /* include */,
+				730AD1DA175FED7B00E17FB5 /* libLiveMobileSDK.a */,
+			);
+			name = LiveMobileSDK;
+			path = ../../Xcode/LiveMobileSDK_TestClient/LiveMobileSDK;
+			sourceTree = "<group>";
+		};
+		730AD1C6175FED7B00E17FB5 /* include */ = {
+			isa = PBXGroup;
+			children = (
+				730AD1C7175FED7B00E17FB5 /* bubbleMine.png */,
+				730AD1C8175FED7B00E17FB5 /* bubbleMine@2x.png */,
+				730AD1C9175FED7B00E17FB5 /* bubbleSomeone.png */,
+				730AD1CA175FED7B00E17FB5 /* bubbleSomeone@2x.png */,
+				730AD1D5175FED7B00E17FB5 /* LiveMobileSDK.h */,
+				730AD1D6175FED7B00E17FB5 /* typingMine.png */,
+				730AD1D7175FED7B00E17FB5 /* typingMine@2x.png */,
+				730AD1D8175FED7B00E17FB5 /* typingSomeone.png */,
+				730AD1D9175FED7B00E17FB5 /* typingSomeone@2x.png */,
+			);
+			path = include;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -173,6 +214,14 @@
 				730AD142175FE2A500E17FB5 /* Default@2x.png in Resources */,
 				730AD144175FE2A500E17FB5 /* Default-568h@2x.png in Resources */,
 				730AD147175FE2A500E17FB5 /* MainStoryboard.storyboard in Resources */,
+				730AD1DB175FED7B00E17FB5 /* bubbleMine.png in Resources */,
+				730AD1DC175FED7B00E17FB5 /* bubbleMine@2x.png in Resources */,
+				730AD1DD175FED7B00E17FB5 /* bubbleSomeone.png in Resources */,
+				730AD1DE175FED7B00E17FB5 /* bubbleSomeone@2x.png in Resources */,
+				730AD1E7175FED7B00E17FB5 /* typingMine.png in Resources */,
+				730AD1E8175FED7B00E17FB5 /* typingMine@2x.png in Resources */,
+				730AD1E9175FED7B00E17FB5 /* typingSomeone.png in Resources */,
+				730AD1EA175FED7B00E17FB5 /* typingSomeone@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -276,6 +325,7 @@
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)\"",
+					"\"$(SRCROOT)/../../Xcode/LiveMobileSDK_TestClient/LiveMobileSDK\"",
 				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
@@ -291,6 +341,7 @@
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)\"",
+					"\"$(SRCROOT)/../../Xcode/LiveMobileSDK_TestClient/LiveMobileSDK\"",
 				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
